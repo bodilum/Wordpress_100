@@ -1,0 +1,45 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+build
+dist
+/online
+/source_files
+/wp-admin
+/wp-includes
+/wp-content/themes/twentytwenty
+/wp-content/themes/twentytwentyone
+/wp-content/themes/twentytwentytwo
+/wp-content/themes/twentytwentythree
+
+/wp-content/plugins/posts-data-table
+
+/wp-content/uploads
+
+/wp-config.php
+
+
+# misc
+*.zip
+*.tar.gz
+*.rar
+.env
+.htaccess
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
