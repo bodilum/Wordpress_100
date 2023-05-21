@@ -1,0 +1,55 @@
+/*
+ Theme Name:   Swipy Child
+ Theme URI:    https://rstheme.com/products/wordpress/swipy/
+ Description:  Swipy Child
+ Author:       RSTheme
+ Author URI:   http://rstheme.com
+ Template:     swipy
+ Version:      1.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+ */
+
+
+
+ /*************** PAGE FORMS *****************/
+ .pageForms {
+    margin: 0 auto;
+    width: 100%;
+    height: auto;
+    display: block;
+    position: relative;
+ }
+ .pageForms form {
+    margin: 0 auto;
+    width: 100%;
+    height: auto;
+    display: block;
+    position: relative;
+ }
+ .pageForms .form_errors {
+    margin: 0 auto;
+    width: 100%;
+    height: auto;
+    display: block;
+    position: relative;
+    border: 5px solid rgb(234, 94, 66);
+    color: rgb(234, 94, 66);
+    padding: 0.5rem;
+    font-size: 1rem;
+    margin-bottom: 2rem;
+ }
+ .pageForms .footer_note {
+    margin: 0 auto;
+    width: 100%;
+    height: auto;
+    display: block;
+    position: relative;
+    background: #f7f7f7;
+    padding: 0.5rem;
+    font-size: 1rem;
+    margin-bottom: 2rem;
+    font-weight: bolder;
+ }
+ /*************** PAGE FORMS END *****************/
