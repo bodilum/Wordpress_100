@@ -18,6 +18,8 @@ dist
 /wp-content/themes/twentytwentytwo
 /wp-content/themes/twentytwentythree
 
+/wp-content/uploads
+
 /wp-config.php
 
 # misc
